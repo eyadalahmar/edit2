@@ -11,7 +11,7 @@ namespace percentage
         static extern bool DestroyIcon(IntPtr handle);
 
         private const string iconFont = "Segoe UI";
-        private const int iconFontSize = 14;
+        private const int iconFontSize = 19 ;
 
         private string batteryPercentage;
         private NotifyIcon notifyIcon;
